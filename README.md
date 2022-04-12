@@ -4,7 +4,8 @@ Configuration of ECS Fargate starts from defining a Task. To define a Task with 
 
 Make Docker image
 
-```docker build -t <name> .
+```
+docker build -t <name> .
 ```
 
 Tag the image
